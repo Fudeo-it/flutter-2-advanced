@@ -1,7 +1,7 @@
 import 'dart:async';
-import 'package:flutter/services.dart' as services;
 
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart' as services;
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 
 void main() => runApp(MyApp());
